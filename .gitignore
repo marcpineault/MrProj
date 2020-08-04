@@ -1,0 +1,6 @@
+venv/Lib/
+.idea/
+venv/Scripts/
+venv/__pycache__/
+venv/pyvenv.cfg
+venv/PressureGaugeSetPackage/__init__.py
